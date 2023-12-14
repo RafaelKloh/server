@@ -10,6 +10,333 @@
       "email": "senacrs@email.com",
       "password": "$2a$10$nv7qfBed3R5.ua.7t1NmY.pObD8GawRhboPRQh05jYXZ6KswVD9wW",
       "id": 2
+    },
+    {
+      "email": "rafaelkloh04@gmail.com",
+      "password": "$2a$10$UV5jjEWB3.7pPUSO391mjutRDTRz9Tu65qwjds8ae6YRUtG74sMlu",
+      "id": 3
+    },
+    {
+      "email": "neymarsilva@gmail.com",
+      "password": "$2a$10$2ShtriH9dnR5jWQS9dSffukyF6LWFtIjOBSIXhNSZhCGUAZpubb3G",
+      "id": 4
+    },
+    {
+      "email": "rafaelkloh00@gmail.com",
+      "password": "$2a$10$3WMExWsywvU0h5VkLfumieA7dgADWYGV4eX9faOPNcd3E5pTT6xI.",
+      "id": 5
+    },
+    {
+      "email": "victorgrade@gmail.com",
+      "password": "$2a$10$wbNB.mjWudFA3mSl/mnWlei5xvsumIuoMeqVU5iM1IwxEZ/.Cl94K",
+      "id": 6
+    },
+    {
+      "email": "sdf@gmail.com",
+      "password": "$2a$10$MWzH9vDUN3DLOvdkwtYN4e8aHzML8GKfv33GaZsgPcdEMdbT9DidW",
+      "id": 7
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "cupcake",
+      "compra": 3,
+      "venda": 8,
+      "id": 1
+    },
+    {
+      "nome": "cookie",
+      "compra": 4,
+      "venda": 10,
+      "id": 2
+    },
+    {
+      "nome": "Açai",
+      "compra": "10",
+      "venda": "5",
+      "id": 1701382401657
+    },
+    {
+      "nome": "Cookie",
+      "compra": "2",
+      "venda": "5",
+      "id": 1701382729008
+    },
+    {
+      "nome": "chocolate meio amargo",
+      "compra": "3",
+      "venda": "5",
+      "id": 1702513081608
+    },
+    {
+      "nome": "bolo",
+      "compra": "10",
+      "venda": "20",
+      "id": 1702513767101
+    }
+  ],
+  "vendas": [
+    {
+      "id": 1,
+      "idProduto": 1,
+      "quantidade": 10,
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389531189,
+      "idProduto": "1",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389531195,
+      "idProduto": "2",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389531199,
+      "idProduto": "1701382401657",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389531202,
+      "idProduto": "1701382644271",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389531207,
+      "idProduto": "1701382729008",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389597168,
+      "idProduto": "1",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389597171,
+      "idProduto": "2",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389597174,
+      "idProduto": "1701382401657",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389597176,
+      "idProduto": "1701382644271",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389597178,
+      "idProduto": "1701382729008",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389903430,
+      "idProduto": "1",
+      "quantidade": "10",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701389938429,
+      "idProduto": "1701382401657",
+      "quantidade": "1",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701390063559,
+      "idProduto": "1",
+      "quantidade": "50",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701467428614,
+      "idProduto": "1",
+      "quantidade": "1",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701469768344,
+      "idProduto": "1701382729008",
+      "quantidade": "200",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701469824116,
+      "idProduto": "1701382401657",
+      "quantidade": "222",
+      "data": "2023-12-03"
+    },
+    {
+      "id": 1701475262883,
+      "idProduto": "1701382729008",
+      "quantidade": "10",
+      "data": "2023-12-03"
+    },
+    {
+      "id": 1701477625711,
+      "idProduto": "1",
+      "quantidade": "20",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701987698007,
+      "idProduto": "1701382729008",
+      "quantidade": "3",
+      "data": "2023-11-01"
+    },
+    {
+      "id": 1701988841933,
+      "idProduto": "1",
+      "quantidade": "4",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701988874213,
+      "idProduto": "1",
+      "quantidade": "1",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701988903333,
+      "idProduto": "1",
+      "quantidade": "1",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701988922631,
+      "idProduto": "1",
+      "quantidade": "1",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701989066008,
+      "idProduto": "1",
+      "quantidade": "1",
+      "data": "2023-12-01"
+    },
+    {
+      "id": 1701989121654,
+      "idProduto": "2",
+      "quantidade": "1",
+      "data": "2024-01-04",
+      "mes": "01"
+    },
+    {
+      "id": 1701989149986,
+      "idProduto": "2",
+      "quantidade": "1",
+      "data": "2024-01-03",
+      "mes": "01"
+    },
+    {
+      "id": 1701990715528,
+      "idProduto": "2",
+      "quantidade": "1",
+      "data": "2024-01-05",
+      "mes": "01"
+    },
+    {
+      "id": 1702513141696,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513143431,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513144671,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513144815,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513144967,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513145119,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513145263,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513145407,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513145560,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513145720,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513145864,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513146031,
+      "idProduto": "1702513081608",
+      "quantidade": "6",
+      "data": "2023-10-01",
+      "mes": "10"
+    },
+    {
+      "id": 1702513214545,
+      "idProduto": "1702513081608",
+      "quantidade": "1",
+      "data": "2023-10-02",
+      "mes": "10"
     }
   ]
 }
